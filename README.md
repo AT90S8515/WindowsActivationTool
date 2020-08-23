@@ -1,6 +1,3 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/alde-the-coder/WindowsActivationTool)
-![GitHub Release Date](https://img.shields.io/github/release-date/alde-the-coder/windowsactivationtool)
-
 # WindowsActivationTool Instruction
 
 ## 1. Download the exe file.
