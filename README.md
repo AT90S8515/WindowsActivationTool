@@ -4,8 +4,8 @@
 
 ## 2. Open it as administrator.
 
-## 3. Select what windows do you use.
+## 3. Select what type of windows10 do you use.
 
 ## 4. Press Enter.
 
-## 5. Succsess!
+## 5. Success!
