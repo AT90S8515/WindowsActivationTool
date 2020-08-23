@@ -44,3 +44,4 @@ int main()
 	Checksystem();
 	Hide();
 }
+// Made by alde-the-coder
