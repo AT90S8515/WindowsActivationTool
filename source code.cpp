@@ -14,7 +14,7 @@ void Hide()
 
 void Checksystem()
 {
-	cout << "Do you have Windows10 Pro or Windows10 Home? 1/2 (If you gettings error - enter 3 or 4 or 5 or 6 (this is just other variants of activation))" << endl;
+	cout << "Do you have Windows10 Pro or Windows10 Home? 1/2 (If you are getting error - enter 3 or 4 or 5 or 6 (this is just other variants of activation))" << endl;
 	int answer;
 	string key, ip;
 	cin >> answer;
