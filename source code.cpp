@@ -21,21 +21,21 @@ void Checksystem()
 	switch(answer)
 {
     case 1:
-        key="slmgr /ipk 8N67H-M3CY9-QT7C4-2TR7M-TXYCV";
+		key="slmgr /ipk 8N67H-M3CY9-QT7C4-2TR7M-TXYCV";
 		ip="slmgr /skms kms.digiboy.ir";
     case 2:
 		key="slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99";
 		ip="slmgr /skms kms.digiboy.ir";
-	case 3:
+    case 3:
 		key="slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX";
 		ip="slmgr /skms kms.digiboy.ir";
-	case 4:
+    case 4:
 		key="slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX";
 		ip="slmgr /skms kms.xspace.in";
-	case 5:
+    case 5:
 		key="slmgr /ipk 8N67H-M3CY9-QT7C4-2TR7M-TXYCV";
 		ip="slmgr /skms kms.xspace.in";
-	case 6:
+    case 6:
 		key="slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99";
 		ip="slmgr /skms kms.xspace.in";
     default:
